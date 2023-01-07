@@ -1,2 +1,2 @@
 # HK-SubdividedFlatsNutrition-Data-Analysis-Report-
-Study About Nutrition Problem who living in Hong Subdivided Flats
+Collaborate with the People Service Center to study the nutrition problems among the citizens who live in subdivided flats.
